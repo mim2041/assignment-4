@@ -15,6 +15,6 @@ function isLGSeven(number){
     }
 }
 
-const number = 15;
+const number = -15;
 const isLarge = isLGSeven(number);
 console.log(isLarge);

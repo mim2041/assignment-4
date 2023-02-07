@@ -24,5 +24,5 @@ function gemsToDiamond(firstFriendGems, secondFriendGems, thirdFriendGems){
     }
 }
 
-const diamonds = gemsToDiamond(100,5,1);
+const diamonds = gemsToDiamond(20,200,50);
 console.log(diamonds);

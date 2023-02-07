@@ -13,5 +13,5 @@ function mindGame(number){
     }
 }
 
-const number = mindGame(50);
+const number = mindGame(10);
 console.log(number);

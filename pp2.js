@@ -14,6 +14,6 @@ function evenOdd(str){
     }
 }
 
-const str = '';
+const str = 'as';
 const even_odd = evenOdd(str);
 console.log(even_odd);
